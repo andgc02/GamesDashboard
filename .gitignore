@@ -6,7 +6,7 @@
 # Visual Studio files
 *.suo
 .vs/
-*.vcxproj.user
+*.vcxproj
 *.filters
 
 # Temporary files
