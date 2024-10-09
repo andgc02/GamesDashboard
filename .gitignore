@@ -1,0 +1,18 @@
+# Build directories
+[Bb]uild/
+[Dd]ebug*/
+[Rr]elease*/
+
+# Visual Studio files
+*.suo
+*.user
+*.vcxproj.user
+*.filters
+.vs/
+
+# Temporary files
+*.log
+*.obj
+*.pch
+*.idb
+*.pdb
