@@ -6,7 +6,6 @@
 # Visual Studio files
 *.suo
 *.user
-*.vcxproj.user
 *.filters
 .vs/
 
