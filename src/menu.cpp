@@ -10,7 +10,7 @@ void displayMainMenu() {
 	std::cout << "1. Play Tic Tac Toe" << std::endl;
 	std::cout << "2. Play RPG_Title" << std::endl;
 	std::cout << "3. Play Snake_2" << std::endl;
-	std::cout << "4. Exit" << std:endl;
+	std::cout << "4. Exit" << std::endl;
 	std::cout << "Enter your choice: " << std::endl;
 }
 
